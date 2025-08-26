@@ -2,76 +2,21 @@
   "version": "1.0",
   "lastUpdated": "2025-08-26",
   "intents": {
-    "bcx_wln_intent": {
-      "values": [
-        "bcxcarepcs",
-        "bcxcarepcs1",
-        "bcxcarepc2",
-        "bcxcarepc3"
-      ],
-      "display": "BCX Wireline Intent Options"
-    },
-    "bcx_wls_intent": {
-      "values": [
-        "bcxcaresmb",
-        "bcxcaresmb1",
-        "bcxcaresmb2",
-        "bcxcaresmb3"
-      ],
-      "display": "BCX Wireless Intent Options"
-    },
     "brands": {
-      "values": [
-        "TELUS",
-        "Koodo",
-        "Public",
-        "Mascon",
-        "ADT"
-      ],
+      "values": "TELUS,Koodo,Public,Mascon,ADT",
       "display": "Brand Options"
     },
-    "business_unit": {
-      "values": [
-        "Consumer",
-        "Business",
-        "Corporate"
-      ],
-      "display": "Business Unit Options"
-    },
-    "ce_wln_intent": {
-      "values": [
-        "technical support",
-        "care",
-        "account management"
-      ],
-      "display": "CE Wireline Intent Options"
-    },
-    "ce_wls_intent": {
-      "values": [
-        "busmobany"
-      ],
-      "display": "CE Wireless Intent Options"
-    },
-    "domain": {
-      "values": [
-        "wireline",
-        "wireless"
-      ],
-      "display": "Domain Options"
-    },
     "language": {
-      "values": [
-        "english",
-        "french"
-      ],
+      "values": "english,french",
       "display": "Language Options"
     },
-    "product_type": {
-      "values": [
-        "HomeSecurity",
-        "Collection"
-      ],
-      "display": "Product Type Options"
+    "domain": {
+      "values": "wireline,wireless",
+      "display": "Domain Options"
+    },
+    "business_unit": {
+      "values": "Consumer,Business,Corporate",
+      "display": "Business Unit Options"
     }
   }
 }
