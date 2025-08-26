@@ -1,22 +1,6 @@
 {
-  "version": "1.0",
-  "lastUpdated": "2025-08-26",
-  "intents": {
-    "brands": {
-      "values": "TELUS,Koodo,Public,Mascon,ADT",
-      "display": "Brand Options"
-    },
-    "language": {
-      "values": "english,french",
-      "display": "Language Options"
-    },
-    "domain": {
-      "values": "wireline,wireless",
-      "display": "Domain Options"
-    },
-    "business_unit": {
-      "values": "Consumer,Business,Corporate",
-      "display": "Business Unit Options"
-    }
-  }
+  "brands": "TELUS,Koodo,Public,Mascon,ADT",
+  "language": "english,french",
+  "domain": "wireline,wireless",
+  "business_unit": "Consumer,Business,Corporate"
 }
