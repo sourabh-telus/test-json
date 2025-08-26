@@ -1,6 +1,22 @@
 {
-  "brands": "TELUS,Koodo,Public,Mascon,ADT",
-  "language": "english,french",
+  "version": "1.0",
+  "lastUpdated": "2025-08-26",
+  "bcx_wln_intent": "bcxcarepcs,bcxcarepcs1,bcxcarepc2,bcxcarepc3",
+  "bcx_wls_intent": "bcxcaresmb,bcxcaresmb1,bcxcaresmb2,bcxcaresmb3",
+  "brands": "TELUS, Koodo, Public, Mascon, ADT",
+  "business_unit": "Consumer, Business, Corporate",
+  "ce_wln_intent": "technical support, care, account management",
+  "ce_wls_intent": "busmobany",
   "domain": "wireline,wireless",
-  "business_unit": "Consumer,Business,Corporate"
+  "language": "english,french",
+  "product_type": "HomeSecurity, Collection",
+  "bcx_wln_intent_actual": "bcxcarepcs,bcxcarepcs1,bcxcarepc2,bcxcarepc3",
+  "bcx_wls_intent_actual": "bcxcaresmb,bcxcaresmb1,bcxcaresmb2,bcxcaresmb3",
+  "brands_actual": "tel,kdo,pbc,mascon,adt",
+  "business_unit_actual": "con,bcx,corp",
+  "ce_wln_intent_actual": "ts, cr,acctmgmt",
+  "ce_wls_intent_actual": "busmobany",
+  "domain_actual": "wln,wls",
+  "language_actual": "en,fr",
+  "product_type_actual": "SHS,col"
 }
